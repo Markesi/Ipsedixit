@@ -20,8 +20,13 @@ namespace Ixedixi
     {
         static void Main(string[] args)
         {
+            // Testing the menues to check how they look
+            // to be re-moved in a future test class
             Menu.showMenuTeacher();
             Menu.showMenuStudent();
+            Menu.showMenutorAdministrator();
+            // End of testing code
+
         }
 
 
