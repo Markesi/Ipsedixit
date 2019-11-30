@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* Class Menu
- * Codebase of Ixedixi 
+ * Codebase of Ipsedixit 
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
  * 
  */
-namespace Ixedixi
+namespace Ipsedixit
 {
     // The Menu class provides choices to the application user
     // according to their roles
@@ -28,7 +28,7 @@ namespace Ixedixi
                 // Clear console and print the list of choices in the menu
                 Console.Clear();
 
-                Console.WriteLine("* Program IxeDixi - vocabulary trainer *");
+                Console.WriteLine("* Program Ipsedixit - vocabulary trainer *");
                 Console.WriteLine(" ############ {0} ############", mnutitle);
                 int i = 0;
                 foreach (var option in mnuoption)

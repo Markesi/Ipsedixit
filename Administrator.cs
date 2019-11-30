@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 /* Class Administrator
  * 
- * Codebase of Ixedixi
+ * Codebase of Ipsedixit
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
@@ -26,7 +26,7 @@ using System.Threading.Tasks;
 // Administator uses the message system (write, read)
 // 
 
-namespace Ixedixi
+namespace Ipsedixit
 {
     class Administrator
     {

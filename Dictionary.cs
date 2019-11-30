@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* Class Dictionary
- * Codebase of Ixedixi 
+ * Codebase of Ipsedixit 
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 // The Dictionary class manages wordlists in the language that we study
 // manipulating the import, sanitation and check of the lists
 
-namespace Ixedixi
+namespace Ipsedixit
 {
     class Dictionary
     {

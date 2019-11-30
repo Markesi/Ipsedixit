@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* Main Program
- * Codebase of Ixedixi 
+ * Codebase of Ipsedixit 
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
@@ -14,7 +14,7 @@ using System.Threading.Tasks;
  * Each class manages supervises the tables with same logic model and name.
  */
 
-namespace Ixedixi
+namespace Ipsedixit
 {
     class Program
     {

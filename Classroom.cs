@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 /* Class Classroom
- * Codebase of Ixedixi 
+ * Codebase of IxediIpsedixitxi 
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
@@ -17,7 +17,7 @@ using System.Threading.Tasks;
 // manages the enrollments for each student year
 // 
 
-namespace Ixedixi
+namespace Ipsedixit
 {
     class Classroom
     {

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /* Class Teacher
- * Codebase of Ixedixi
+ * Codebase of Ipsedixit
  * Owner Michelangelo Marchesi
  * Creation date: 2019-11-15
  * Last change: 2019-11-16 
@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 // assign exercise, review solutions, reply to comments
 // teachers can solve the exercises themselves
 
-namespace Ixedixi
+namespace Ipsedixit
 {
     class Teacher
     {
