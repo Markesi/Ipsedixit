@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4638" viewBox="0 0 209.91 238.57" version="1.1">
+  <title id="title4659">Marqueur</title>
+  <g id="layer1" transform="translate(-275.04 -404.51)">
+    <g id="g4619" stroke-linejoin="round" transform="matrix(.33761 .94129 -.94129 .33761 204.56 -467.62)" stroke-dashoffset="3.003" stroke="#000" stroke-linecap="round" stroke-width="2" fill="#fff">
+      <path id="path4483" d="m864.01 221.97 4.5406 10.014c1.867 2.8579 2.2872 6.4335 8.5641 5.1208l68.285-21.554c4.4996-3.8161 1.6956-4.5563-0.974-4.729l-5.7771-0.49835c-2.3887 0.68709-4.0417 1.7605-4.1497 4.1719l-54.277 16.261c-4.7885 1.3124-5.0153-5.2814-6.8322-8.6261z"/>
+      <path id="path4481" d="m940.95 170.76c4.8625-2.2402 5.0354 0.54322 7.219 2.3764l7.8386 19.505c-0.13704 2.7905 2.0531 4.7921-0.61165 7.0402-18.016 7.4546-35.874 15.036-55.48 21.218-20.277 5.993-28.848 6.7287-44.228 6.9503-3.754-4.4391-4.7067-5.874-5.2684-12.71 3.883-4.0829 21.52-17.001 37.237-25.044 17.232-7.2689 35.386-13.111 53.293-19.336z"/>
+      <path id="path4468" d="m951.09 167.61 159.21-57.04c10.276-2.6886 11.193-2.4575 22.03-1.2462 3.1684 3.0764 3.6667 2.8249 4.2443 8.619-4.1517 6.5634-6.7266 10.767-14.597 14.828-74.629 33.551-85.147 34.89-159.32 63.263-3.1743 1.23-5.3647-0.20918-6.9128-2.3132l-8.1479-20.511c-0.22386-2.3103 0.28006-4.1721 3.46-5.5965z"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Marqueur / marker</dc:title>
+        <dc:date>2011-03-07T20:02:15</dc:date>
+        <dc:description>clip art, clipart, line art, marker, pen, school, </dc:description>
+        <dc:source>http://openclipart.org/detail/126091/marqueur--marker-by-lmproulx-126091</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>lmproulx</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>marker</rdf:li>
+            <rdf:li>pen</rdf:li>
+            <rdf:li>school</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
